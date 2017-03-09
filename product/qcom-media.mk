@@ -11,4 +11,6 @@ PRODUCT_PACKAGES += \
     libOmxVdec \
     libOmxVdecHevc \
     libOmxVenc \
-    libstagefrighthw
+    libstagefrighthw \
+    libdashplayer \
+    libextmedia_jni

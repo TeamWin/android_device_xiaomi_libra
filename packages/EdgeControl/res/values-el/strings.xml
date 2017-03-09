@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Έλεγχος Edge</string>
+
+    <!-- edge tap enable -->
+    <string name="pref_title_enable_etap">Διπλό ελαφρύ χτύπημα στο πλάι</string>
+    <string name="pref_summary_enable_etap">Διπλό ελαφρύ πάτημα στο πλαϊνό μέρος του τηλεφώνου προκαλεί πίσω πάτημα</string>
+
+    <string name="pref_header_extra">Έλεγχος Edge</string>
+
+</resources>

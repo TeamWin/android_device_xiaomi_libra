@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kontrola rubom</string>
+
+    <!-- edge tap enable -->
+    <string name="pref_title_enable_etap">Dvostruki dodir ruba</string>
+    <string name="pref_summary_enable_etap">Dvostruki dodir na rub telefona radi isto Å¡to i tipka natrag</string>
+
+    <string name="pref_header_extra">Kontrola rubom</string>
+
+</resources>

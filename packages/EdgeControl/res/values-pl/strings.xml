@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kontrola Krawędzi</string>
+
+    <!-- edge tap enable -->
+    <string name="pref_title_enable_etap">Podwójne stuknięcie w krawędź</string>
+    <string name="pref_summary_enable_etap">Podwójne stuknięcie w krawędź telefonu powoduje powrót</string>
+
+    <string name="pref_header_extra">Kontrola Krawędzi</string>
+
+</resources>

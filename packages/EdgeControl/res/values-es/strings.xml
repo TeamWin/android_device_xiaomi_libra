@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Control en los bordes</string>
+
+    <!-- edge tap enable -->
+    <string name="pref_title_enable_etap">Doble toque en el borde</string>
+    <string name="pref_summary_enable_etap">Doble toque en el borde del teléfono hace retroceder</string>
+
+    <string name="pref_header_extra">Control en los bordes</string>
+
+</resources>
+

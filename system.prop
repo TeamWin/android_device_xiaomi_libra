@@ -31,7 +31,6 @@ persist.mdpcomp_perfhint=50
 debug.mdpcomp.logs=0
 persist.metadata_dynfps.disable=true
 persist.hwc.ptor.enable=true
-dalvik.vm.heapsize=36m
 dev.pm.dyn_samplingrate=1
 persist.demo.hdmirotationlock=false
 
