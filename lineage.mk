@@ -18,10 +18,16 @@ $(call inherit-product, device/xiaomi/libra/device.mk)
 PRODUCT_NAME := lineage_libra
 PRODUCT_DEVICE := libra
 
+BOARD_VENDOR := Xiaomi
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Mi-4c
 PRODUCT_MANUFACTURER := Xiaomi
-PRODUCT_RESTRICT_VENDOR_FILES := false
+TARGET_VENDOR := Xiaomi
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRODUCT_NAME=libra
+    PRODUCT_NAME="libra" \
+    BUILD_FINGERPRINT="Xiaomi/libra/libra:7.0/NRD90M/7.2.16:user/release-keys" \
+    PRIVATE_BUILD_DESC="libra-user 7.0 NRD90M 7.2.16 release-keys"
+
+PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
+    
