@@ -1,0 +1,14 @@
+[
+  {
+    "remote":"github",
+    "repository": "TeamWin/android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "revision":"android-7.1"
+  },
+  {
+    "remote": "github",
+    "repository": "AndropaX/android_kernel_xiaomi_msm8992",
+    "target_path": "kernel/xiaomi/msm8992",
+    "revision": "RR-7.1"
+  }
+]
