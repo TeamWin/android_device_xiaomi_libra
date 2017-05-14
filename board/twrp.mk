@@ -9,4 +9,4 @@ TW_INCLUDE_CRYPTO := true
 TW_INCLUDE_NTFS_3G := true
 TW_BRIGHTNESS_PATH := "/sys/class/leds/lcd-backlight/brightness"
 TARGET_RECOVERY_QCOM_RTC_FIX := true
-TW_DEVICE_VERSION := 2
+#TW_DEVICE_VERSION := 2
